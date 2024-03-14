@@ -30,7 +30,7 @@ export const TopNavBar = () => {
               className="h-8 w-8"
               priority
             />
-            <h1 className="text-xl font-bold whitespace-nowrap ">
+            <h1 className="text-xl text-primary font-bold whitespace-nowrap ">
               BUILD MY RESUME
             </h1>
           </div>
